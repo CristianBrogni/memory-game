@@ -1,5 +1,5 @@
 const images=[];
-const backImage = "images/god.png"; //define a imagen de fundo das cartas
+const backImage = "images/img0.png"; //define a imagen de fundo das cartas
 for(var i =1;i<=8; i++){  //funçao loop para alterar o valor de I ate <=8
   images.push("images/img"+ i +".png"); // procura a imagen correspondente ao valor de I e adiciona ao array
 }
