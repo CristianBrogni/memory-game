@@ -1,0 +1,17 @@
+#memoria{
+max-width: 50rem;
+}
+
+#memoria img{
+
+  margin-bottom: 20px;
+  border: thin solid black;
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+
+}
+
+#memoria #footer{
+  text-align: center;
+}
